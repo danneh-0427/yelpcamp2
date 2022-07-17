@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Middleware"
+		},
+		{
+			"path": "..\\..\\errorHandling"
+		},
+		{
+			"path": "..\\..\\Mongoose"
+		},
+		{
+			"path": "..\\..\\MongoRelationships"
+		}
+	],
+	"settings": {}
+}
